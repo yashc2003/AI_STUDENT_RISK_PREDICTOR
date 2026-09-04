@@ -115,5 +115,6 @@ The risk prediction model evaluates the following student features:
 
 ---
 
-## 👤 Author
-Developed by **Yash Chaudhari**
+## Project Deploy 
+- https://aistudentriskpredictor-khjnsnecdramthevw5qovf.streamlit.app/
+
